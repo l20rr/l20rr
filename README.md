@@ -1,6 +1,5 @@
 ## Hello world I am Lucas Santos
 
-- 🔭 I’m currently working on front-end
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me: lucas20.rsantos@gmail.com
 
