@@ -1,6 +1,6 @@
 ## Hello world I am Lucas Santos
 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning C
 - 📫 How to reach me: lucas20.rsantos@gmail.com
 
  <div>
