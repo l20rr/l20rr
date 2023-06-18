@@ -1,6 +1,6 @@
 ## Hello world I am Lucas Santos
 
-- The CET final project repository is still private but if you want to see how it turned out: https://l20rr.github.io/overview/
+- The CET final project repository is already public but if you want to see the final result: https://l20rr.github.io/overview/
 - 📫 How to reach me: lucas20.rsantos@gmail.com
 
  <div>
