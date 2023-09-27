@@ -2,6 +2,7 @@
 
 
 - 📫 How to reach me: lucas20.rsantos@gmail.com
+- Portfolio: https://l20rr.github.io/Lucas_Portifolio/
 
  <div>
   <a href="https://github.com/l20rr">
