@@ -1,8 +1,3 @@
-## Hello world I am Lucas Santos
-
-
-- 📫 How to reach me: lucas20.rsantos@gmail.com
-
 
  <div>
 
