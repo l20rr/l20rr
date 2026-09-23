@@ -10,5 +10,3 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-58b780181/)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l20rr&layout=compact&theme=dark&hide_border=true)](https://github.com/l20rr/github-readme-stats)
