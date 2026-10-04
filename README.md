@@ -12,4 +12,4 @@
 
 <img align="left" width="500px" src="https://github-readme-stats.vercel.app/api?username=l20rr&show_icons=true&theme=dark"/>
 
-<img align="left" width="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l20rr&hide=shell&theme=dark"/>
+<img align="left" width="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l20rr&hide=javascript,html,css&theme=dark"/>
