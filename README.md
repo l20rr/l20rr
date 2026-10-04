@@ -10,5 +10,6 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-58b780181/)
 
-  <img  align="left"  width="500px" src="https://github-readme-stats.vercel.app/api?username=l20rr&show_icons=true&theme=gruvbox_light"/>
-  <img  align="left"  width="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l20rr&hide=shell&theme=gruvbox_light"/>
+<img align="left" width="500px" src="https://github-readme-stats.vercel.app/api?username=l20rr&show_icons=true&theme=dark"/>
+
+<img align="left" width="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l20rr&hide=shell&theme=dark"/>
